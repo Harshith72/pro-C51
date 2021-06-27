@@ -1,0 +1,57 @@
+h1{
+    color: rgb(255, 28, 236);
+    background-color: rgba(32, 194, 235, 0.411);
+    font-style: italic;
+    margin: 30px;
+}
+.starting_line{
+    text-align: center;
+    font-size: large;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(67, 255, 10, 0.157);
+  
+    background-image: url('images.jpg');
+    background-repeat: no-repeat;
+} 
+
+.top{
+    text-align: center;
+    font-size: large;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(67, 255, 10, 0.157);
+  
+    background-image: url('images.jpg');
+
+}   
+ 
+h2 {
+    font-style: italic;
+}
+
+img{
+   background-color: rgb(15, 14, 14);
+}
+
+
+h4{
+color: red;
+}
+
+.footer{
+    text-align: right ;
+}
+
+.item li {
+    color:rgb(255, 2, 44)
+}
+a:link{
+    color:red;
+}
+a:visited{
+    color:rgb(56, 238, 24);
+}
+a:hover{
+    color:purple;
+}
